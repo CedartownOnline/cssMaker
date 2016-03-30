@@ -1,5 +1,5 @@
 # cssMaker
-
+```
 usage: cssMarker [Directory {Default: Current}] [options]
 
 options:
@@ -12,3 +12,4 @@ options:
   -p           Padding of Icon in px {Default: 4}
   -r           Selector Pattern {Default: a[href$ }
   -s           Size of Icons
+```
