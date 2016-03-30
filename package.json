@@ -1,0 +1,22 @@
+{
+  "name": "ccsmaker",
+  "version": "1.0.0",
+  "description": "Create a CSS from icon files",
+  "main": "cssMaker.js",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "Generator"
+  ],
+  "author": "James F Thompson",
+  "license": "MIT",
+  "bin": {
+    "cssMaker": "./cssMaker.js"
+  }
+}
