@@ -1,6 +1,6 @@
 # cssMaker
 ```
-usage: cssMarker [Directory {Default: Current}] [options]
+usage: cssmarker [Directory {Default: Current}] [options]
 
 options:
   -a           Add Icon After Link
