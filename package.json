@@ -18,5 +18,13 @@
   "license": "MIT",
   "bin": {
     "cssMaker": "./cssMaker.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CedartownOnline/cssMaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CedartownOnline/cssMaker/issues"
+  },
+  "homepage": "https://github.com/CedartownOnline/cssMaker#readme"
 }
