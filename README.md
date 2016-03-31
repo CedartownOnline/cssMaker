@@ -1,9 +1,7 @@
 # ** CSS Icon Maker **
 
 The easy way to turn your icon into a CSS.
-
-![Sample Usage](https://raw.githubusercontent.com/CedartownOnline/cssMaker/master/documentation/img/sampleOutput.png "Sample Usage" | width=400)
-
+<img src="https://raw.githubusercontent.com/CedartownOnline/cssMaker/master/documentation/img/sampleOutput.png" width="600">
 
 Install:
 npm install cssmaker
